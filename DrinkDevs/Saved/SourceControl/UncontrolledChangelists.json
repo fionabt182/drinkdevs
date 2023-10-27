@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/DrinkDevs/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PI/J4HIRCPN959GPNEWII5RSH.uasset",
+				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3N/J9KNWQSS5RGQ7236NAUE9W.uasset",
+				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AO/6VXGLA5FIHZDB8FPB6BRLF.uasset",
+				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/Zombe/Fi/BP_FlowerPad.uasset",
+				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Blockout/3/57/B7PGYY7YCMLW91IZSJTGZW.uasset",
+				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Blockout/7/8N/AS0VJU636QHS3AXLGS8J6T.uasset",
+				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Blockout/B/KU/KO5MU1ZVNDNLEJPCA32DFP.uasset",
+				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/ThirdPerson/Input/Actions/IA_Glide.uasset",
+				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/dylan/Desktop/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Bloackout/6/EW/6S0D2WQDNNW2RZQ00JQRU7.uasset",
 				"C:/Users/dylan/Desktop/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Bloackout/2/46/V46GX4OY2096DVH78N1T5Z.uasset",
 				"C:/Users/dylan/Desktop/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Bloackout/C/XT/TZ2QB5TZP3BC4NI086DBS0.uasset",
@@ -171,13 +182,7 @@
 				"C:/Users/dylan/Desktop/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Blockout/1/P6/X0K47J1EV2WSRUZON0WZ0V.uasset",
 				"C:/Users/dylan/Desktop/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Blockout/D/02/8CMEAWWO2HBUS9TORBGFM4.uasset",
 				"C:/Users/dylan/Desktop/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Blockout/8/4X/BMTH81FVEE7W73W036GKG7.uasset",
-				"C:/Users/dylan/Desktop/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Blockout/5/N9/5K6G81Q6YDJ30RYASEYP8S.uasset",
-				"E:/DrinkDevs/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PI/J4HIRCPN959GPNEWII5RSH.uasset",
-				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3N/J9KNWQSS5RGQ7236NAUE9W.uasset",
-				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AO/6VXGLA5FIHZDB8FPB6BRLF.uasset",
-				"C:/Users/fibt/Documents/GitHub/drinkdevs/DrinkDevs/Content/Zombe/Fi/BP_FlowerPad.uasset"
+				"C:/Users/dylan/Desktop/drinkdevs/DrinkDevs/Content/__ExternalActors__/Dylan/Blockout/5/N9/5K6G81Q6YDJ30RYASEYP8S.uasset"
 			]
 		}
 	]
