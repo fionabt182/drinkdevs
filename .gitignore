@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+DrinkDevs/Saved/Config/CrashReportClient/UECC-Windows-89CAB402478E321E9451069696A41486/CrashReportClient.ini
+DrinkDevs/Intermediate/CachedAssetRegistry.bin
+DrinkDevs/Saved/SourceControl/UncontrolledChangelists.json
+DrinkDevs/Saved/Logs/DrinkDevs.log
+DrinkDevs/Saved/Logs/DrinkDevs-backup-2023.10.27-21.21.11.log
+DrinkDevs/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+DrinkDevs/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+DrinkDevs/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+DrinkDevs/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+DrinkDevs/Intermediate/CachedAssetRegistry.bin
