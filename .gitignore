@@ -143,3 +143,5 @@ DrinkDevs/Saved/AutoScreenshot.png
 DrinkDevs/Saved/Crashes/UECC-Windows-133C37C943AF4C9F683E67A433DC4075_0000/CrashReportClient.ini
 DrinkDevs/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 *.log
+*.ini
+*.png
