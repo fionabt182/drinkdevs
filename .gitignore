@@ -145,3 +145,10 @@ DrinkDevs/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 *.log
 *.ini
 *.png
+DrinkDevs/Intermediate/CachedAssetRegistry.bin
+DrinkDevs/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+DrinkDevs/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+DrinkDevs/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+DrinkDevs/Saved/AutoScreenshot.png
+DrinkDevs/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+DrinkDevs/Saved/Logs/DrinkDevs.log
